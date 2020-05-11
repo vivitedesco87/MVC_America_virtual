@@ -1,0 +1,7 @@
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\APP\AppAmericaVirtual\CapaDatos\bin\Debug\CapaNegocio.dll.config
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\APP\AppAmericaVirtual\CapaDatos\bin\Debug\CapaNegocio.dll
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\APP\AppAmericaVirtual\CapaDatos\bin\Debug\CapaNegocio.pdb
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\APP\AppAmericaVirtual\CapaDatos\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\APP\AppAmericaVirtual\CapaDatos\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\APP\AppAmericaVirtual\CapaDatos\obj\Debug\CapaNegocio.dll
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\APP\AppAmericaVirtual\CapaDatos\obj\Debug\CapaNegocio.pdb

@@ -1,0 +1,10 @@
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\wsAmericaV\bin\wsAmericaV.dll.config
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\wsAmericaV\bin\wsAmericaV.dll
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\wsAmericaV\bin\wsAmericaV.pdb
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\wsAmericaV\bin\LibraryDatos.dll
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\wsAmericaV\bin\LibraryDatos.pdb
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\wsAmericaV\obj\Debug\wsAmericaV.csprojAssemblyReference.cache
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\wsAmericaV\obj\Debug\wsAmericaV.csproj.CoreCompileInputs.cache
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\wsAmericaV\obj\Debug\wsAmericaV.csproj.CopyComplete
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\wsAmericaV\obj\Debug\wsAmericaV.dll
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\wsAmericaV\obj\Debug\wsAmericaV.pdb

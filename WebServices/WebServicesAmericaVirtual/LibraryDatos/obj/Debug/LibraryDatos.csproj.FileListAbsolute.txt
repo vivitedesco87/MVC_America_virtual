@@ -1,0 +1,6 @@
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\WebServicesAmericaVirtual\LibraryDatos\bin\Debug\LibraryDatos.dll
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\WebServicesAmericaVirtual\LibraryDatos\bin\Debug\LibraryDatos.pdb
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\WebServicesAmericaVirtual\LibraryDatos\obj\Debug\LibraryDatos.csprojAssemblyReference.cache
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\WebServicesAmericaVirtual\LibraryDatos\obj\Debug\LibraryDatos.csproj.CoreCompileInputs.cache
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\WebServicesAmericaVirtual\LibraryDatos\obj\Debug\LibraryDatos.dll
+D:\Viviana Tedesco Prueba America Virtual\Visual 2017\WebServices\WebServicesAmericaVirtual\LibraryDatos\obj\Debug\LibraryDatos.pdb

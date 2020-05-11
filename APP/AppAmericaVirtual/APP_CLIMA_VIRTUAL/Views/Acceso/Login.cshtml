@@ -1,0 +1,44 @@
+﻿@using APP_CLIMA_VIRTUAL.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+@*<div class="navbar-collapse collapse">
+    <div class="dropdown-menu">*@
+<form class="px-4 py-3" action="@Url.Content("~/Acceso/Login")" method="post">
+    <div class="form-group">
+        <label for="exampleDropdownFormEmail1">Email address</label>
+        <input type="email" id="id_mail" name="mail"  class="form-control" id="exampleDropdownFormEmail1" placeholder="email@example.com">
+    </div>
+    <div class="form-group">
+        <label for="exampleDropdownFormPassword1">Password</label>
+        <input type="password" id="id_pass" name="pass" class="form-control" id="exampleDropdownFormPassword1" placeholder="Password">
+    </div>
+    <div class="form-group">
+        <label for="Error">@ViewBag.Error</label>
+    </div>
+    <button type="submit" id="btnLogin" class="btn btn-primary">Sign in</button>
+</form>
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script type="text/javascript" src="~/Scripts/LocalStorage.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function () {
+        $("#btnLogin").click(function () {
+        
+            var mail = $("#id_mail").val();
+            var password = $("#id_pass").val();
+            guardar_localStorage(mail, password);
+        });
+        });
+
+
+        obtener_localStorage();
+    </script>
+
+
+}
